@@ -1,0 +1,52 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 160.106.123.29
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 16:16 UTC
+Nmap scan report for 160.106.123.29
+Host is up (0.011s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.96 seconds
+
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 8080 160.106.123.29
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 16:18 UTC
+Nmap scan report for 160.106.123.29
+Host is up (0.010s latency).
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 11.32 seconds
+
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 8000 8080 160.106.123.29
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 16:18 UTC
+Nmap scan report for 160.106.123.29
+Host is up (0.010s latency).
+
+PORT     STATE    SERVICE
+8000/tcp filtered http-alt
+
+Nmap done: 2 IP addresses (1 host up) scanned in 12.52 seconds
+
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F 160.106.123.29                   Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 16:20 UTC
+Nmap scan report for DC01DC007-008-DEVTEST-VIP-123-29.dev.global.gc.ca (160.106.123.29)
+Host is up (0.011s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 13.07 seconds

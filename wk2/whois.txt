@@ -1,0 +1,257 @@
+1)google.com
+
+Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+NS1.GOOGLE.COM
+NS2.GOOGLE.COM
+NS3.GOOGLE.COM
+NS4.GOOGLE.COMDates
+Registry Expiration: 2028-09-14 04:00:00 UTC
+Created: 1997-09-15 04:00:00 UTC
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse contact email: abusecomplaints@markmonitor.com
+Abuse contact phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/google.com
+Last updated from Registry RDAP DB: 2021-01-25 06:45:07 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/GOOGLE.COM
+Last updated from Registrar RDAP DB: 2021-01-05 05:11:32 UTC
+
+2)tesla.com
+
+Name: TESLA.COM
+Registry Domain ID: 187902_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+A1-12.AKAM.NET
+A10-67.AKAM.NET
+A12-64.AKAM.NET
+A28-65.AKAM.NET
+A7-66.AKAM.NET
+A9-67.AKAM.NET
+EDNS69.ULTRADNS.BIZ
+EDNS69.ULTRADNS.COM
+EDNS69.ULTRADNS.NET
+EDNS69.ULTRADNS.ORGDates
+Registry Expiration: 2022-11-03 05:00:00 UTC
+Created: 1992-11-04 05:00:00 UTC
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse contact email: abusecomplaints@markmonitor.com
+Abuse contact phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/tesla.com
+Last updated from Registry RDAP DB: 2021-01-25 06:45:07 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/TESLA.COM
+Last updated from Registrar RDAP DB: 2021-01-05 05:11:32 UTC
+
+3)georgebrown.ca
+
+Registrar Info
+NameWebnames.ca Inc.
+Whois Serverwhois.ca.fury.ca
+Referral URLwww.webnames.ca
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2021-07-04
+Registered On2002-07-04
+Updated On2021-01-23
+Name Servers
+ns1.d-zone.ca162.219.54.2
+ns1.georgebrown.ca198.96.86.35
+ns2.d-zone.ca162.219.55.2
+ns2.georgebrown.ca198.96.87.135
+Similar Domains
+georg--breitwieser.com | georg-abele.ch | georg-abrell.de | georg-academy.com | georg-ackermann-schule.de | georg-agricola-gesellschaft.de | georg-agricola.com | georg-ahrens.de | georg-aigner.at | georg-aigner.com | georg-alber.de | georg-albrecht-eckle.com | georg-alexander-hansen.de | georg-alexander.com | georg-alexi.us.com | georg-andalusier.de | georg-anderl.de | georg-anders.de | georg-andreas.ch | georg-andresen.com |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Registrant Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Administrative Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Technical Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Billing Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Information Updated: 2021-01-24 23:40:38
+
+4)blackboard.com
+
+Registrar Info
+NameCSC CORPORATE DOMAINS, INC.
+Whois Serverwhois.corporatedomains.com
+Referral URLwww.cscprotectsbrands.com
+StatusclientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Important Dates
+Expires On2021-07-15
+Registered On1999-04-09
+Updated On2020-10-20
+Name Servers
+ns1.blackboard.com69.196.241.70
+ns2.blackboard.com69.196.242.220
+ns3.blackboard.com46.183.242.150
+Similar Domains
+black%20porn%20pics.com | black----------pussy.com | black--------booty.com | black-------slut.com | black-------sluts.co | black-------sluts.com | black-----lesbians.com | black-----pussy.com | black---friday.com | black---history.com | black---pussy.com | black---sex.com | black--anal--sex.com | black--anal.com | black--anal.info | black--and--white.com | black--art.com | black--ass.com | black--ass.net | black--ass.us |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Registrant Contact Information:
+NameDomain Administrator
+OrganizationBlackboard Inc.
+Address1111 19th Street NW
+CityWashington
+State / ProvinceDC
+Postal Code20036
+CountryUS
+Phone+1.2024634860
+Fax+1.2024634860
+Email
+
+Administrative Contact Information:
+NameDomain Administrator
+OrganizationBlackboard Inc.
+Address1111 19th Street NW
+CityWashington
+State / ProvinceDC
+Postal Code20036
+CountryUS
+Phone+1.2024634860
+Fax+1.2024634860
+Email
+
+Technical Contact Information:
+NameDomain Administrator
+OrganizationBlackboard Inc.
+Address1111 19th Street NW
+CityWashington
+State / ProvinceDC
+Postal Code20036
+CountryUS
+Phone+1.2024634860
+Fax+1.2024634860
+Email
+
+5)apple.com
+
+Registrar Info
+NameCSC CORPORATE DOMAINS, INC.
+Whois Serverwhois.corporatedomains.com
+Referral URLwww.cscprotectsbrands.com
+StatusclientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Important Dates
+Expires On2021-02-20
+Registered On1987-02-19
+Updated On2020-10-20
+Name Servers
+a.ns.apple.com17.253.200.1
+b.ns.apple.com17.253.207.1
+c.ns.apple.com204.19.119.1
+d.ns.apple.com204.26.57.1
+Similar Domains
+apple---find.info | apple--31.ru | apple--accessories.com | apple--app.com | apple--apple.com | apple--china.com | apple--computer--error.info | apple--customer--support.info | apple--device--warning.info | apple--error.com | apple--expert.ru | apple--farm.com | apple--find.info | apple--find.online | apple--icloud--id.com | apple--icloud.com | apple--icloud.info | apple--icloud.net | apple--id.com | apple--id.info |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Registrant Contact Information:
+NameDomain Administrator
+OrganizationApple Inc.
+AddressOne Apple Park Way
+CityCupertino
+State / ProvinceCA
+Postal Code95014
+CountryUS
+Phone+1.4089961010
+Fax+1.4089741560
+Email
+
+Administrative Contact Information:
+NameDomain Administrator
+OrganizationApple Inc.
+AddressOne Apple Park Way
+CityCupertino
+State / ProvinceCA
+Postal Code95014
+CountryUS
+Phone+1.4089961010
+Fax+1.4089741560
+Email
+
+Technical Contact Information:
+NameDomain Administrator
+OrganizationApple Inc.
+AddressOne Apple Park Way
+CityCupertino
+State / ProvinceCA
+Postal Code95014
+CountryUS
+Phone+1.4089961010
+Fax+1.4089741560
+Email

@@ -1,0 +1,50 @@
+1)samsung.com
+
+Checking Domain Name
+Domain Name: samsung.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 211.45.27.231
+Geolocation: KR (Korea, Republic of)
+
+2)theverge.com
+
+Checking Domain Name
+Domain Name: theverge.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 151.101.65.52
+Geolocation: US (United States), CA, California, 94107 San Francisco
+
+3)microsoft.com
+
+Checking Domain Name
+Domain Name: microsoft.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 40.113.200.201
+Geolocation: US (United States), IA, Iowa, 50307 Des Moines 
+
+4)canada.ca
+
+Checking Domain Name
+Domain Name: canada.ca
+Top Level Domain: CA (Canada)
+
+DNS Lookup
+IP Address: 160.106.123.29
+Geolocation: CA (Canada), ON, Ontario, K1G Ottawa
+Reverse DNS: DC01DC007-008-DEVTEST-VIP-123-29.dev.global.gc.ca
+
+5)amazon.com
+
+Checking Domain Name
+Domain Name: amazon.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 54.239.28.85
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn

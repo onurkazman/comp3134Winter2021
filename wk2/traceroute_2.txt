@@ -1,0 +1,15 @@
+C:\Users\Onur>tracert 159.89.118.31
+
+Tracing route to 159.89.118.31 over a maximum of 30 hops
+
+  1     2 ms     2 ms     1 ms  hitronhub.home [192.168.0.1]
+  2    20 ms    14 ms    11 ms  99.242.72.1
+  3    14 ms    30 ms    10 ms  8078-dgw02.lndn.rmgt.net.rogers.com [66.185.89.81]
+  4    24 ms    15 ms    13 ms  0-5-0-8-cgw01.wlfdle.rmgt.net.rogers.com [209.148.230.177]
+  5    14 ms    12 ms    25 ms  209.148.235.214
+  6    14 ms    11 ms    12 ms  digitalocean.ip4.torontointernetxchange.net [206.108.35.15]
+  7    20 ms    12 ms    20 ms  138.197.249.91
+  8     *        *        *     Request timed out.
+  9    15 ms    18 ms    11 ms  159.89.118.31
+
+Trace complete.
